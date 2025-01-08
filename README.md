@@ -7,4 +7,4 @@
 <h4 align="center">Dont make malicious code, you will be kicked out and will never get accepted again</h4>
 <h4 align="center">Be nice! not only us, and everyone</h4>
 <h4 align="center">You must know english! its ok you dont know that much about english. but if you dont know english like nothing, your not accepted</h4>
-<h4 align="center">And kast but not least, Logic. just be a normal guy</h4>
+<h4 align="center">Logic. just be a normal guy</h4>
